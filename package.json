@@ -1,0 +1,27 @@
+{
+  "name": "blummee",
+  "description": "Blummee's about me page!",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "build": "npm i && npm i express",
+    "run": "node index.js"
+  },
+
+  "keywords": [
+    "skool",
+    "unblocker",
+    "games",
+    "proxy",
+    "ultraviolet"
+  ],
+  "author": "skoolgq",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/Skoolgq/skoolv2/issues"
+  },
+  "homepage": "https://github.com/Skoolgq/skoolv2#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
